@@ -17,7 +17,7 @@
 
 This repository contains the code for our novel iterative visual fine-tuning framework that improves both the accuracy and explainability of Large Multimodal Models (LMMs). Our approach facilitates robust data generation and fine-tuning without relying on extensive manual annotations.
 
-![Framework Overview](Figures/Firgure2v8.pdf)
+![Framework Overview](./asset/ICLR_2025.png)
 
 ## Key Features
 
