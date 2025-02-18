@@ -8,8 +8,8 @@
 <sup>2</sup>Department of Radiology, Massachusetts General Hospital and Harvard Medical School  
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=lHbLpwbEyt)
-[![Project Page](https://img.shields.io/badge/Project-Page-brightgreen)]((https://github.com/sycny/SelfSynthX/edit/main/README.md))
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://github.com/sycny/SelfSynthX/edit/main/README.md)
+[![Project Page](https://img.shields.io/badge/Project-Page-brightgreen)](https://github.com/sycny/SelfSynthX/main/README.md)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://github.com/sycny/SelfSynthX/main/README.md)
 
 *Equal contribution  
 *For questions, please contact [📧](mailto:yucheng.shi@uga.edu)*
