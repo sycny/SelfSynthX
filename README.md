@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./asset/icon.webp" width="25%">
+<img src="./asset/new_icon.png" width="25%">
 <h1>Enhancing Cognition and Explainability of Multimodal Foundation Models</h1>
 <h3>Self-Synthesized Data for Improved Visual Reasoning and Explanation</h3>
 
