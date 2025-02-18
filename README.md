@@ -3,7 +3,7 @@
 <h1>Enhancing Cognition and Explainability of Multimodal Foundation Models</h1>
 <h3>Self-Synthesized Data for Improved Visual Reasoning and Explanation</h3>
 
-**Authors:** Yucheng Shi<sup>1*</sup>, Quanzheng Li<sup>2*</sup>, Jin Sun<sup>1</sup>, Xiang Li<sup>2</sup>, Ninghao Liu<sup>1</sup>  
+**Authors:** Yucheng Shi<sup>1</sup>, Quanzheng Li<sup>2</sup>, Jin Sun<sup>1</sup>, Xiang Li<sup>2</sup>, Ninghao Liu<sup>1</sup>  
 <sup>1</sup>School of Computing, University of Georgia  
 <sup>2</sup>Department of Radiology, Massachusetts General Hospital and Harvard Medical School  
 
@@ -11,7 +11,6 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-brightgreen)](https://github.com/sycny/SelfSynthX/blob/main/README.md)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-blue)](https://github.com/sycny/SelfSynthX/blob/main/README.md)
 
-*Equal contribution  
 *For questions, please contact [📧](mailto:yucheng.shi@uga.edu)*
 </div>
 
