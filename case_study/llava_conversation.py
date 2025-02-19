@@ -5,17 +5,17 @@ import requests
 
 def main():
     # Define the model ID
-    model_id = "./checkpoint-4/HAM10000-2024-09-27/merged_model"
+    model_id = "./PLD-merged_model"
     
     # Initialize the image-to-text pipeline
     try:
-        pipe = pipeline("image-to-text", model=model_id)
+        pipe = pipeline("image-to-text", model=model_id, device='cuda:0')
     except Exception as e:
         print(f"Error loading the model: {e}")
         sys.exit(1)
     
     # URL of the image to be used
-    image_path = './datasets/HAM10000/Images/ISIC_0031642.jpg'
+    image_path = './datasets/PLD/Images/Bell Pepper___Bacterial_spot/image (1).JPG'
     # Load the image
 
     try:
