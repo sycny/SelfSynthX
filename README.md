@@ -26,8 +26,6 @@ This repository contains the code for our novel iterative visual fine-tuning fra
 - 📊 **Multi-Domain Support**: Tested on biological, medical, and fine-grained visual classification tasks
 
 ## Overview
-
-- **Paper:** The LaTeX source in `main.tex` details our proposed method and theoretical justifications
 - **Source Code:** All core Python scripts are contained in the `src/` directory. These scripts handle data generation, model fine-tuning, evaluation, and other supporting tasks
 - **Execution Pipeline:** The `run/IFT_RS.sh` shell script provides a step-by-step walk-through of the entire running logic—from data synthesis to iterative training
 - **Evaluation:** We employ the [lmms-eval](./lmms-eval) framework to benchmark the general abilities of our model
