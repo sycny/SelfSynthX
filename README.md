@@ -107,8 +107,8 @@ For other datasets used in this project, please follow similar steps to download
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/sycny/SelfSynthX.git
+cd SelfSynthX
 ```
 
 2. **Create a Virtual Environment with Conda (Optional)**
