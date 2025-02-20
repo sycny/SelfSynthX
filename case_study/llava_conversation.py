@@ -5,7 +5,7 @@ import requests
 
 def main():
     # Define the model ID
-    model_id = "./PLD-merged_model"
+    model_id = "YuchengShi/LLaVA-v1.5-7B-Plant-Leaf-Diseases-Detection"
     
     # Initialize the image-to-text pipeline
     try:
