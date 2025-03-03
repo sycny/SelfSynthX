@@ -1,5 +1,5 @@
-# modified based on https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava
 # used for development(especially for LLaVA-Next Series)
+# based on https://github.com/huggingface/trl/blob/main/examples/scripts/sft_vlm.py
 
 # import debugpy
 
